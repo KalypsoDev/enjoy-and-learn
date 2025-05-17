@@ -16,10 +16,10 @@
             <h1>Enjoy And Learn Language School</h1>
         </section>
         <nav>
-            <a href="../../../index.html">KalypsoDev</a>
-            <a href="../../../pages/mi-historia.html">Mi historia</a>
-            <a href="../../../pages/mi-cv.html">Mi CV</a>
-            <a href="../../../pages/contacto.html">Contacto</a>
+            <a href="../../pages/nuestra-historia.html">Nuestra historia</a>
+            <a href="../../pages/nuestro-equipo.html">Nuestro equipo</a>
+            <a href="../../pages/valoraciones.html">Valoraciones</a>
+            <a href="../../pages/contacto.html">Contacto</a>
         </nav>
     </header>
     <main>
