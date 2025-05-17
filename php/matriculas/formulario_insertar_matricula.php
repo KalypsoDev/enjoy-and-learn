@@ -5,13 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario para añadir matrícula</title>
-    <link rel="stylesheet" href="../../../css/enjoyLearnSchool.css">
+    <link rel="stylesheet" href="../../css/enjoyLearnSchool.css">
 </head>
 
 <body>
     <header>
         <section id="logoSection">
-            <a href="../index.html"><img src="../../../img/enjoyAndLearnLanguageSchoolLogo.png"
+            <a href="../../index.html"><img src="../../img/enjoyAndLearnLanguageSchoolLogo.png"
                     alt="Logo de Enjoy and Learn" id="logo"></a>
             <h1>Enjoy And Learn Language School</h1>
         </section>
@@ -25,7 +25,7 @@
     <main>
         <h2 id="databaseTitle">Base de datos: añadir nueva matrícula</h2>
         <section id="formSection">
-            <img src=" ../../../img/enrollments.png" alt="Matrículas">
+            <img src=" ../../img/enrollments.png" alt="Matrículas">
             <form action="insertar_matricula.php" method="post">
                 <fieldset>
                     <legend>Nueva matrícula</legend>
